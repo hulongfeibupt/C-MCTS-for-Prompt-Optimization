@@ -1,0 +1,625 @@
+2026-04-29 17:23:17,447 - ✓ 已加载混淆矩阵，群体事件-线上罢工 的全部混淆标签 (1个): ['无风险']
+2026-04-29 17:23:17,448 - Running parallel inference on 1000 samples (Level A) using GPUs 4,5,6,7...
+2026-04-29 17:32:06,518 - Request exception: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2026-04-29 17:32:06,518 - Request exception: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-04-29 17:32:06,619 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd5930>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:06,619 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd5a20>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:06,720 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd59c0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:06,720 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd5ae0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:06,821 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd6410>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:06,821 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd6500>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:06,922 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd67a0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:06,922 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd6890>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:07,023 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd6b30>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:07,023 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd6c20>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:07,124 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd6ec0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:07,124 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd6fb0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:07,225 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd7250>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:07,225 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd7340>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:07,326 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd76d0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:07,326 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd75e0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:07,427 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd7a60>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:07,427 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd7970>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:07,528 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd7d00>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:07,528 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd7df0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:07,630 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd7b20>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:07,630 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd7bb0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:07,731 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd76d0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:07,731 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd7820>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:07,832 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd7490>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:07,832 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd7340>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:07,933 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd6fb0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:07,933 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd7100>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:08,034 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd6d70>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:08,034 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd6c20>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:08,135 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd6890>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:08,135 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd69e0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:08,236 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd6500>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:08,236 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd6650>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:08,337 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd62c0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:08,337 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd5b70>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:08,438 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd61d0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:08,438 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd5ff0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:08,539 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9b7c130>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:08,539 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9b781c0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:08,640 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9b7c460>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:08,640 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9b78550>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:08,741 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9b7c7f0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:08,741 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9b788e0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:08,842 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd6230>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:08,842 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd4df0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:08,943 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd5d80>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:08,943 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd5ae0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:09,044 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd6200>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:09,044 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd6470>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:09,145 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd6800>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:09,145 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd65c0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:09,246 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd6950>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:09,246 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd6b90>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:09,347 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd6ce0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:09,347 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd6f20>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:09,448 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd7070>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:09,448 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd72b0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:09,550 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd7640>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:09,550 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd7400>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:09,651 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd7790>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:09,651 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd79d0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:09,752 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9b7c9a0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:09,752 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9b786a0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:09,853 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9b78220>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:09,853 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9b7c7c0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:09,954 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9b7c430>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:09,954 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9b78c70>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:10,056 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd7b20>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:10,056 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9b7cb80>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:10,157 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd7a60>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:10,157 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd7340>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:10,258 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd6fb0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:10,258 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd7a00>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:10,360 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd7670>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:10,360 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd6c20>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:10,461 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd72e0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:10,461 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd6890>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:10,562 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd6f50>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:10,562 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd6500>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:10,663 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd6bc0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:10,663 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd59c0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:10,764 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd5b40>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:10,764 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd6830>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:10,866 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd7fa0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:10,866 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd64a0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:10,967 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd5150>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:10,967 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9b78c10>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:11,069 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9b7c4f0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:11,069 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9b78310>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:11,170 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9b78670>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:11,170 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9b7c880>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:11,271 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9b7ca00>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:11,272 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9b79000>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:11,373 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd6860>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:11,373 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd6410>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:11,474 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd6710>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:11,474 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd67a0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:11,576 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd6b30>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:11,576 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd6aa0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:11,677 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd6e30>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:11,677 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd6ec0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:11,778 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd7250>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:11,778 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd71c0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:11,880 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd7550>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:11,880 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd75e0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:11,981 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd78e0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:11,981 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd7970>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:12,082 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd7c70>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:12,082 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd7c70>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:12,183 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd7910>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:12,183 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd7f70>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:12,284 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9b7cd30>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:12,284 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9b78400>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:12,384 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9b7cac0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:12,384 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9b781c0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:12,485 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9b78a90>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:12,485 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9b7c460>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:12,592 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd79d0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:12,593 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9b7c0a0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:12,693 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd75b0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:12,694 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd7d00>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:12,794 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd7220>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 17:32:12,795 - Request exception: HTTPConnectionPool(host='localhost', port=8082): Max retries exceeded with url: /infer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6ea9cd7970>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-29 23:39:50,307 - ✓ 已加载混淆矩阵，交通事故-死亡 的全部混淆标签 (1个): ['敏感身份进线-警察来电调取信息-非遗失物品']
+2026-04-29 23:39:50,307 - Running parallel inference on 1000 samples (Level A) using GPUs 4,5,6,7...
+2026-04-29 23:59:09,194 - ✓ 已加载混淆矩阵，交通事故-死亡 的全部混淆标签 (1个): ['敏感身份进线-警察来电调取信息-非遗失物品']
+2026-04-29 23:59:09,195 - Running parallel inference on 1000 samples (Level A) using GPUs 4,5,6,7...
+2026-04-30 00:25:46,289 - ✓ 设置 baseline[A] 其他标签Acc=0.9310 P=1.0000 R=1.0000 F1=1.0000
+2026-04-30 00:25:46,289 - Level B: 筛选目标标签 '交通事故-死亡' 和 1 个混淆标签，共 75/2579 条样本
+2026-04-30 00:25:46,289 - Running parallel inference on 75 samples (Level B) using GPUs 4,5,6,7...
+2026-04-30 00:28:04,506 - ✓ 设置 baseline[B] 其他标签Acc=0.8857 P=1.0000 R=0.8000 F1=0.8889
+2026-04-30 00:28:04,506 - 
+================================================================================
+2026-04-30 00:28:04,506 - 🚀 MCTS Iteration 1/3 开始
+2026-04-30 00:28:04,506 - ================================================================================
+2026-04-30 00:28:04,506 - 🔍 [Selection] 正在从根节点开始选择最优路径...
+2026-04-30 00:28:04,506 - 📍 [Selection] 选中节点: Root
+2026-04-30 00:28:04,506 - 🧐 [Expansion] 正在生成父节点的初始分析报告...
+2026-04-30 00:28:04,507 - Level B: 筛选目标标签 '交通事故-死亡' 和 1 个混淆标签，共 75/2579 条样本
+2026-04-30 00:28:04,507 - Running parallel inference on 75 samples (Level B) using GPUs 4,5,6,7...
+2026-04-30 00:30:16,541 - ✓ 保存缓存: 1 条记录
+2026-04-30 00:30:16,542 - 
+--- 🧠 父节点 详细判别信息 ---
+2026-04-30 00:30:16,542 - | 目标标签: 交通事故-死亡
+2026-04-30 00:30:16,542 - | 样本总量: 75
+2026-04-30 00:30:16,542 - | 判别性能: P=1.0000, R=0.8000, F1=0.8889
+2026-04-30 00:30:16,542 - | 错误统计: 假阴性(漏检)=1, 假阳性(误检)=0
+2026-04-30 00:30:16,542 - | 典型漏检案例 (FN):
+2026-04-30 00:30:16,542 - |   [1] 历史工单ID: 46142846, 用户描述问题：交警进线咨询平台司机接单后平台是否有保险 司机服务中发生交通事故 乘客死亡 司机昏迷 需要处理人员尽快联系警方 , 所属警局：东莞市公安局交管支队万江...
+2026-04-30 00:30:16,542 - | ✓ 铁律检查: 通过 (未造成其他标签准确率明显下降)
+2026-04-30 00:30:16,542 - -----------------------------
+2026-04-30 00:30:16,551 - 📊 干扰样本已保存至: mcts_error_logs/iter_1_Root_errors.xlsx
+2026-04-30 00:30:16,551 - 📄 干扰样本 TXT 已保存至: mcts_error_logs/iter_1_Root_errors.txt
+2026-04-30 00:30:23,412 - 📝 Creating 6 child nodes...
+2026-04-30 00:30:23,412 - 🚀 [FBPS] 批次并行评估 6 个新子节点...
+2026-04-30 00:30:23,413 - Level B: 筛选目标标签 '交通事故-死亡' 和 1 个混淆标签，共 75/2579 条样本
+2026-04-30 00:30:23,413 - Running parallel inference on 75 samples (Level B) using GPUs 4,5,6,7...
+2026-04-30 00:32:30,652 - ✨ F1 提升 0.1111，获得额外奖励！
+2026-04-30 00:32:30,652 - ✓ 保存缓存: 2 条记录
+2026-04-30 00:32:30,652 -   ✓ 子节点评估完成: 增加交警咨询、乘客死亡等关键词规则... Q=1.0500
+2026-04-30 00:32:30,653 - Level B: 筛选目标标签 '交通事故-死亡' 和 1 个混淆标签，共 75/2579 条样本
+2026-04-30 00:32:30,653 - Running parallel inference on 75 samples (Level B) using GPUs 4,5,6,7...
+2026-04-30 00:34:36,526 - ✓ 保存缓存: 3 条记录
+2026-04-30 00:34:36,526 -   ✓ 子节点评估完成: 增加事故伤亡具体描述的关键词... Q=0.8889
+2026-04-30 00:34:36,527 - Level B: 筛选目标标签 '交通事故-死亡' 和 1 个混淆标签，共 75/2579 条样本
+2026-04-30 00:34:36,527 - Running parallel inference on 75 samples (Level B) using GPUs 4,5,6,7...
+2026-04-30 00:36:48,624 - ✓ 保存缓存: 4 条记录
+2026-04-30 00:36:48,624 -   ✓ 子节点评估完成: 增加交通事故导致昏迷并涉及死亡的关键词组合... Q=0.8889
+2026-04-30 00:36:48,625 - Level B: 筛选目标标签 '交通事故-死亡' 和 1 个混淆标签，共 75/2579 条样本
+2026-04-30 00:36:48,625 - Running parallel inference on 75 samples (Level B) using GPUs 4,5,6,7...
+2026-04-30 00:39:04,664 - ✓ 保存缓存: 5 条记录
+2026-04-30 00:39:04,664 -   ✓ 子节点评估完成: 增加平台保险咨询结合死亡事故的特定场景... Q=0.8889
+2026-04-30 00:39:04,665 - Level B: 筛选目标标签 '交通事故-死亡' 和 1 个混淆标签，共 75/2579 条样本
+2026-04-30 00:39:04,665 - Running parallel inference on 75 samples (Level B) using GPUs 4,5,6,7...
+2026-04-30 00:41:18,210 - ✨ F1 提升 0.1111，获得额外奖励！
+2026-04-30 00:41:18,211 - ✓ 保存缓存: 6 条记录
+2026-04-30 00:41:18,211 -   ✓ 子节点评估完成: 增加警方处理死亡交通事故的特定模式... Q=1.0500
+2026-04-30 00:41:18,211 - Level B: 筛选目标标签 '交通事故-死亡' 和 1 个混淆标签，共 75/2579 条样本
+2026-04-30 00:41:18,211 - Running parallel inference on 75 samples (Level B) using GPUs 4,5,6,7...
+2026-04-30 00:43:33,492 - ✓ 保存缓存: 7 条记录
+2026-04-30 00:43:33,492 -   ✓ 子节点评估完成: 增加多重证据组合的确认规则... Q=0.8889
+2026-04-30 00:43:33,492 - ✓ [FBPS] 批次评估完成，所有子节点已预设 Q 值。
+2026-04-30 00:43:33,492 - 🌿 [Expansion] 进入新扩展的子节点: 增加交警咨询、乘客死亡等关键词规则
+2026-04-30 00:43:33,492 - 🎲 [Simulation] 开始评估节点效用...
+2026-04-30 00:43:33,492 - 🧪 [Simulation] 评估目标: 增加交警咨询、乘客死亡等关键词规则
+2026-04-30 00:43:33,492 - 💡 [FBPS] 节点已预评估，直接返回 Q=1.0500
+2026-04-30 00:43:33,492 - ⬆️ [Backpropagation] 正在回溯更新节点统计信息 (Reward: 1.0500)...
+2026-04-30 00:43:33,492 - 
+✨ Iteration 1 结束. 当前路径奖励: 1.0500
+2026-04-30 00:43:33,492 - 📊 实时统计: 1 成功 / 0 失败 / 1 总计 (失败率: 0.0%)
+2026-04-30 00:43:33,492 - 
+================================================================================
+2026-04-30 00:43:33,492 - 🚀 MCTS Iteration 2/3 开始
+2026-04-30 00:43:33,492 - ================================================================================
+2026-04-30 00:43:33,492 - 🔍 [Selection] 正在从根节点开始选择最优路径...
+2026-04-30 00:43:33,492 - 📍 [Selection] 选中节点: 增加警方处理死亡交通事故的特定模式
+2026-04-30 00:43:41,908 - 📝 Creating 6 child nodes...
+2026-04-30 00:43:41,908 - 🚀 [FBPS] 批次并行评估 6 个新子节点...
+2026-04-30 00:43:41,909 - Level B: 筛选目标标签 '交通事故-死亡' 和 1 个混淆标签，共 75/2579 条样本
+2026-04-30 00:43:41,909 - Running parallel inference on 75 samples (Level B) using GPUs 4,5,6,7...
+2026-04-30 00:45:54,598 - ✓ 保存缓存: 8 条记录
+2026-04-30 00:45:54,598 -   ✓ 子节点评估完成: 增加死亡相关医疗术语的关键词... Q=0.8889
+2026-04-30 00:45:54,599 - Level B: 筛选目标标签 '交通事故-死亡' 和 1 个混淆标签，共 75/2579 条样本
+2026-04-30 00:45:54,599 - Running parallel inference on 75 samples (Level B) using GPUs 4,5,6,7...
+2026-04-30 00:48:04,899 - ✓ 保存缓存: 9 条记录
+2026-04-30 00:48:04,900 -   ✓ 子节点评估完成: 增加事故严重程度描述的关键词... Q=0.8889
+2026-04-30 00:48:04,900 - Level B: 筛选目标标签 '交通事故-死亡' 和 1 个混淆标签，共 75/2579 条样本
+2026-04-30 00:48:04,900 - Running parallel inference on 75 samples (Level B) using GPUs 4,5,6,7...
+2026-04-30 00:50:21,984 - ✓ 保存缓存: 10 条记录
+2026-04-30 00:50:21,984 -   ✓ 子节点评估完成: 增加法医鉴定和善后处理相关关键词... Q=0.8889
+2026-04-30 00:50:21,985 - Level B: 筛选目标标签 '交通事故-死亡' 和 1 个混淆标签，共 75/2579 条样本
+2026-04-30 00:50:21,985 - Running parallel inference on 75 samples (Level B) using GPUs 4,5,6,7...
+2026-04-30 00:52:31,072 - ✓ 保存缓存: 11 条记录
+2026-04-30 00:52:31,073 -   ✓ 子节点评估完成: 增加赔偿处理和法律责任相关关键词... Q=0.8889
+2026-04-30 00:52:31,073 - Level B: 筛选目标标签 '交通事故-死亡' 和 1 个混淆标签，共 75/2579 条样本
+2026-04-30 00:52:31,073 - Running parallel inference on 75 samples (Level B) using GPUs 4,5,6,7...
+2026-04-30 00:54:42,644 - ✨ F1 提升 0.1111，获得额外奖励！
+2026-04-30 00:54:42,646 - ✓ 保存缓存: 12 条记录
+2026-04-30 00:54:42,646 -   ✓ 子节点评估完成: 增加事故现场调查和证据收集相关关键词... Q=1.0500
+2026-04-30 00:54:42,646 - Level B: 筛选目标标签 '交通事故-死亡' 和 1 个混淆标签，共 75/2579 条样本
+2026-04-30 00:54:42,646 - Running parallel inference on 75 samples (Level B) using GPUs 4,5,6,7...
+2026-04-30 00:56:55,430 - ✨ F1 提升 0.1111，获得额外奖励！
+2026-04-30 00:56:55,431 - ✓ 保存缓存: 13 条记录
+2026-04-30 00:56:55,431 -   ✓ 子节点评估完成: 增加保险理赔和事故责任认定相关关键词... Q=1.0500
+2026-04-30 00:56:55,431 - ✓ [FBPS] 批次评估完成，所有子节点已预设 Q 值。
+2026-04-30 00:56:55,431 - 🌿 [Expansion] 进入新扩展的子节点: 增加事故现场调查和证据收集相关关键词
+2026-04-30 00:56:55,431 - 🎲 [Simulation] 开始评估节点效用...
+2026-04-30 00:56:55,431 - 🧪 [Simulation] 评估目标: 增加事故现场调查和证据收集相关关键词
+2026-04-30 00:56:55,431 - 💡 [FBPS] 节点已预评估，直接返回 Q=1.0500
+2026-04-30 00:56:55,431 - ⬆️ [Backpropagation] 正在回溯更新节点统计信息 (Reward: 1.0500)...
+2026-04-30 00:56:55,431 - 
+✨ Iteration 2 结束. 当前路径奖励: 1.0500
+2026-04-30 00:56:55,431 - 📊 实时统计: 2 成功 / 0 失败 / 2 总计 (失败率: 0.0%)
+2026-04-30 00:56:55,431 - 
+================================================================================
+2026-04-30 00:56:55,431 - 🚀 MCTS Iteration 3/3 开始
+2026-04-30 00:56:55,431 - ================================================================================
+2026-04-30 00:56:55,431 - 🔍 [Selection] 正在从根节点开始选择最优路径...
+2026-04-30 00:56:55,432 - 📍 [Selection] 选中节点: 增加交警咨询、乘客死亡等关键词规则
+2026-04-30 00:57:03,976 - 📝 Creating 6 child nodes...
+2026-04-30 00:57:03,976 - 🚀 [FBPS] 批次并行评估 6 个新子节点...
+2026-04-30 00:57:03,977 - Level B: 筛选目标标签 '交通事故-死亡' 和 1 个混淆标签，共 75/2579 条样本
+2026-04-30 00:57:03,977 - Running parallel inference on 75 samples (Level B) using GPUs 4,5,6,7...
+2026-04-30 00:59:12,862 - ✓ 保存缓存: 14 条记录
+2026-04-30 00:59:12,863 -   ✓ 子节点评估完成: 增加间接死亡描述的识别规则... Q=0.8889
+2026-04-30 00:59:12,863 - Level B: 筛选目标标签 '交通事故-死亡' 和 1 个混淆标签，共 75/2579 条样本
+2026-04-30 00:59:12,863 - Running parallel inference on 75 samples (Level B) using GPUs 4,5,6,7...
+2026-04-30 01:01:20,461 - ✓ 保存缓存: 15 条记录
+2026-04-30 01:01:20,461 -   ✓ 子节点评估完成: 增加葬礼赔偿相关描述识别... Q=0.8889
+2026-04-30 01:01:20,462 - Level B: 筛选目标标签 '交通事故-死亡' 和 1 个混淆标签，共 75/2579 条样本
+2026-04-30 01:01:20,462 - Running parallel inference on 75 samples (Level B) using GPUs 4,5,6,7...
+2026-04-30 01:03:26,760 - ✓ 保存缓存: 16 条记录
+2026-04-30 01:03:26,760 -   ✓ 子节点评估完成: 增加死亡后果影响的识别规则... Q=0.8889
+2026-04-30 01:03:26,760 - Level B: 筛选目标标签 '交通事故-死亡' 和 1 个混淆标签，共 75/2579 条样本
+2026-04-30 01:03:26,761 - Running parallel inference on 75 samples (Level B) using GPUs 4,5,6,7...
+2026-04-30 01:05:35,375 - ✓ 保存缓存: 17 条记录
+2026-04-30 01:05:35,376 -   ✓ 子节点评估完成: 增加物证证据相关的死亡识别... Q=0.8889
+2026-04-30 01:05:35,376 - Level B: 筛选目标标签 '交通事故-死亡' 和 1 个混淆标签，共 75/2579 条样本
+2026-04-30 01:05:35,376 - Running parallel inference on 75 samples (Level B) using GPUs 4,5,6,7...
+2026-04-30 01:07:41,991 - ✓ 保存缓存: 18 条记录
+2026-04-30 01:07:41,991 -   ✓ 子节点评估完成: 增加时间维度的死亡确认规则... Q=0.8889
+2026-04-30 01:07:41,992 - Level B: 筛选目标标签 '交通事故-死亡' 和 1 个混淆标签，共 75/2579 条样本
+2026-04-30 01:07:41,992 - Running parallel inference on 75 samples (Level B) using GPUs 4,5,6,7...
+2026-04-30 01:09:49,064 - ✓ 保存缓存: 19 条记录
+2026-04-30 01:09:49,064 -   ✓ 子节点评估完成: 增加法律程序相关的死亡识别... Q=0.8889
+2026-04-30 01:09:49,064 - ✓ [FBPS] 批次评估完成，所有子节点已预设 Q 值。
+2026-04-30 01:09:49,065 - 🌿 [Expansion] 进入新扩展的子节点: 增加间接死亡描述的识别规则
+2026-04-30 01:09:49,065 - 🎲 [Simulation] 开始评估节点效用...
+2026-04-30 01:09:49,065 - 🧪 [Simulation] 评估目标: 增加间接死亡描述的识别规则
+2026-04-30 01:09:49,065 - 💡 [FBPS] 节点已预评估，直接返回 Q=0.8889
+2026-04-30 01:09:49,065 - ⬆️ [Backpropagation] 正在回溯更新节点统计信息 (Reward: 0.8889)...
+2026-04-30 01:09:49,065 - 
+✨ Iteration 3 结束. 当前路径奖励: 0.8889
+2026-04-30 01:09:49,065 - 📊 实时统计: 3 成功 / 0 失败 / 3 总计 (失败率: 0.0%)
+2026-04-30 01:09:49,065 - 
+################################################################################
+2026-04-30 01:09:49,065 - 🏁 MCTS 搜索完成总结
+2026-04-30 01:09:49,065 - 总迭代次数: 3
+2026-04-30 01:09:49,065 - 成功节点: 3
+2026-04-30 01:09:49,065 - 失败节点: 0
+2026-04-30 01:09:49,065 - 成功率: 100.0%
+2026-04-30 01:09:49,065 - 
+🎯 Tracing best path from root...
+2026-04-30 01:09:49,065 -   Level 1: Q=1.0500, N=2, Action: 增加警方处理死亡交通事故的特定模式
+2026-04-30 01:09:49,065 -   Level 2: Q=1.0500, N=2, Action: 增加事故现场调查和证据收集相关关键词
+2026-04-30 01:09:49,065 - 
+✅ Best path found (depth=2):
+2026-04-30 01:09:49,065 -   Root: Q=0.9963
+2026-04-30 01:09:49,065 -   Best child: Q=1.0500, Action: 增加事故现场调查和证据收集相关关键词
+2026-04-30 01:09:49,689 - ✓ 已加载混淆矩阵，诈骗-诈骗3万元以内 的全部混淆标签 (2个): ['暴力犯罪-敲诈1千元以内', '无风险']
+2026-04-30 01:09:49,689 - Running parallel inference on 1000 samples (Level A) using GPUs 4,5,6,7...
+2026-04-30 01:36:19,630 - ✓ 设置 baseline[A] 其他标签Acc=0.9798 P=1.0000 R=0.6667 F1=0.8000
+2026-04-30 01:36:19,631 - Level B: 筛选目标标签 '诈骗-诈骗3万元以内' 和 2 个混淆标签，共 1447/2579 条样本
+2026-04-30 01:36:19,631 - Running parallel inference on 1447 samples (Level B) using GPUs 4,5,6,7...
+2026-04-30 02:20:08,429 - ✓ 设置 baseline[B] 其他标签Acc=0.9813 P=1.0000 R=0.6000 F1=0.7500
+2026-04-30 02:20:08,429 - 
+================================================================================
+2026-04-30 02:20:08,429 - 🚀 MCTS Iteration 1/3 开始
+2026-04-30 02:20:08,429 - ================================================================================
+2026-04-30 02:20:08,429 - 🔍 [Selection] 正在从根节点开始选择最优路径...
+2026-04-30 02:20:08,429 - 📍 [Selection] 选中节点: Root
+2026-04-30 02:20:08,429 - 🧐 [Expansion] 正在生成父节点的初始分析报告...
+2026-04-30 02:20:08,430 - Level B: 筛选目标标签 '诈骗-诈骗3万元以内' 和 2 个混淆标签，共 1447/2579 条样本
+2026-04-30 02:20:08,430 - Running parallel inference on 1447 samples (Level B) using GPUs 4,5,6,7...
+2026-04-30 03:04:02,852 - ✓ 保存缓存: 1 条记录
+2026-04-30 03:04:02,852 - 
+--- 🧠 父节点 详细判别信息 ---
+2026-04-30 03:04:02,852 - | 目标标签: 诈骗-诈骗3万元以内
+2026-04-30 03:04:02,852 - | 样本总量: 1447
+2026-04-30 03:04:02,852 - | 判别性能: P=1.0000, R=0.6000, F1=0.7500
+2026-04-30 03:04:02,852 - | 错误统计: 假阴性(漏检)=2, 假阳性(误检)=0
+2026-04-30 03:04:02,852 - | 典型漏检案例 (FN):
+2026-04-30 03:04:02,852 - |   [1] 【安全等级】：C, 【安全场景】：C级-车内冲突-一般人身安全-盗窃诈骗敲诈勒索(＜3千), 【姓名】：杨先生, 【来电人手机号】：15838572770 , 【乘车人电话】：15838572770 ...
+2026-04-30 03:04:02,852 - |   [2] 用户问题: 司机私下借款后失联, 客服方案: 外呼司机无法接听故升级给专员处理，24小时内回复，电话联系用户 9点回电, 用户是否认可方案: 认可, 乘客上传添加司机微信截图转账截图|18657619...
+2026-04-30 03:04:02,852 - | ✓ 铁律检查: 通过 (未造成其他标签准确率明显下降)
+2026-04-30 03:04:02,852 - -----------------------------
+2026-04-30 03:04:02,862 - 📊 干扰样本已保存至: mcts_error_logs/iter_1_Root_errors.xlsx
+2026-04-30 03:04:02,863 - 📄 干扰样本 TXT 已保存至: mcts_error_logs/iter_1_Root_errors.txt
+2026-04-30 03:04:11,157 - 📝 Creating 6 child nodes...
+2026-04-30 03:04:11,158 - 🚀 [FBPS] 批次并行评估 6 个新子节点...
+2026-04-30 03:04:11,159 - Level B: 筛选目标标签 '诈骗-诈骗3万元以内' 和 2 个混淆标签，共 1447/2579 条样本
+2026-04-30 03:04:11,159 - Running parallel inference on 1447 samples (Level B) using GPUs 4,5,6,7...
+2026-04-30 03:48:20,098 - ✨ F1 提升 0.0500，获得额外奖励！
+2026-04-30 03:48:20,099 - ✓ 保存缓存: 2 条记录
+2026-04-30 03:48:20,099 -   ✓ 子节点评估完成: 增加关于司机私下收取额外费用和诱导转账的关键词... Q=0.8500
+2026-04-30 03:48:20,100 - Level B: 筛选目标标签 '诈骗-诈骗3万元以内' 和 2 个混淆标签，共 1447/2579 条样本
+2026-04-30 03:48:20,100 - Running parallel inference on 1447 samples (Level B) using GPUs 4,5,6,7...
+2026-04-30 04:32:33,862 - ✨ F1 提升 0.2500，获得额外奖励！
+2026-04-30 04:32:33,863 - ✓ 保存缓存: 3 条记录
+2026-04-30 04:32:33,863 -   ✓ 子节点评估完成: 增加借款不还和失联行为的相关规则... Q=1.0500
+2026-04-30 04:32:33,864 - Level B: 筛选目标标签 '诈骗-诈骗3万元以内' 和 2 个混淆标签，共 1447/2579 条样本
+2026-04-30 04:32:33,864 - Running parallel inference on 1447 samples (Level B) using GPUs 4,5,6,7...
+2026-04-30 05:17:47,893 - ✓ 保存缓存: 4 条记录
+2026-04-30 05:17:47,893 -   ✓ 子节点评估完成: 针对司机提供虚假服务并收取费用的场景... Q=0.7273
+2026-04-30 05:17:47,894 - Level B: 筛选目标标签 '诈骗-诈骗3万元以内' 和 2 个混淆标签，共 1447/2579 条样本
+2026-04-30 05:17:47,894 - Running parallel inference on 1447 samples (Level B) using GPUs 4,5,6,7...
+2026-04-30 06:01:41,165 - ✨ F1 提升 0.1389，获得额外奖励！
+2026-04-30 06:01:41,167 - ✓ 保存缓存: 5 条记录
+2026-04-30 06:01:41,167 -   ✓ 子节点评估完成: 增加司机诱导乘客私下支付的关键特征... Q=0.9389
+2026-04-30 06:01:41,168 - Level B: 筛选目标标签 '诈骗-诈骗3万元以内' 和 2 个混淆标签，共 1447/2579 条样本
+2026-04-30 06:01:41,168 - Running parallel inference on 1447 samples (Level B) using GPUs 4,5,6,7...
+2026-04-30 06:45:50,014 - ✨ F1 提升 0.0500，获得额外奖励！
+2026-04-30 06:45:50,015 - ✓ 保存缓存: 6 条记录
+2026-04-30 06:45:50,015 -   ✓ 子节点评估完成: 针对司机提供虚假车牌和额外收费的欺诈行为... Q=0.8500
+2026-04-30 06:45:50,015 - Level B: 筛选目标标签 '诈骗-诈骗3万元以内' 和 2 个混淆标签，共 1447/2579 条样本
+2026-04-30 06:45:50,015 - Running parallel inference on 1447 samples (Level B) using GPUs 4,5,6,7...
+2026-04-30 07:30:22,810 - ✨ F1 提升 0.2500，获得额外奖励！
+2026-04-30 07:30:22,811 - ✓ 保存缓存: 7 条记录
+2026-04-30 07:30:22,811 -   ✓ 子节点评估完成: 增加司机失联和拒绝归还借款的诈骗特征... Q=1.0500
+2026-04-30 07:30:22,812 - ✓ [FBPS] 批次评估完成，所有子节点已预设 Q 值。
+2026-04-30 07:30:22,812 - 🌿 [Expansion] 进入新扩展的子节点: 增加借款不还和失联行为的相关规则
+2026-04-30 07:30:22,812 - 🎲 [Simulation] 开始评估节点效用...
+2026-04-30 07:30:22,812 - 🧪 [Simulation] 评估目标: 增加借款不还和失联行为的相关规则
+2026-04-30 07:30:22,812 - 💡 [FBPS] 节点已预评估，直接返回 Q=1.0500
+2026-04-30 07:30:22,812 - ⬆️ [Backpropagation] 正在回溯更新节点统计信息 (Reward: 1.0500)...
+2026-04-30 07:30:22,812 - 
+✨ Iteration 1 结束. 当前路径奖励: 1.0500
+2026-04-30 07:30:22,812 - 📊 实时统计: 1 成功 / 0 失败 / 1 总计 (失败率: 0.0%)
+2026-04-30 07:30:22,812 - 
+================================================================================
+2026-04-30 07:30:22,812 - 🚀 MCTS Iteration 2/3 开始
+2026-04-30 07:30:22,812 - ================================================================================
+2026-04-30 07:30:22,812 - 🔍 [Selection] 正在从根节点开始选择最优路径...
+2026-04-30 07:30:22,812 - 📍 [Selection] 选中节点: 增加司机失联和拒绝归还借款的诈骗特征
+2026-04-30 07:30:32,702 - 📝 Creating 6 child nodes...
+2026-04-30 07:30:32,702 - 🚀 [FBPS] 批次并行评估 6 个新子节点...
+2026-04-30 07:30:32,703 - Level B: 筛选目标标签 '诈骗-诈骗3万元以内' 和 2 个混淆标签，共 1447/2579 条样本
+2026-04-30 07:30:32,703 - Running parallel inference on 1447 samples (Level B) using GPUs 4,5,6,7...
+2026-04-30 08:15:04,104 - ✨ F1 提升 0.1591，获得额外奖励！
+2026-04-30 08:15:04,105 - ✓ 保存缓存: 8 条记录
+2026-04-30 08:15:04,105 -   ✓ 子节点评估完成: 增加司机以车辆维修/加油等名义要求乘客垫付费用的诈骗场景... Q=0.9591
+2026-04-30 08:15:04,106 - Level B: 筛选目标标签 '诈骗-诈骗3万元以内' 和 2 个混淆标签，共 1447/2579 条样本
+2026-04-30 08:15:04,106 - Running parallel inference on 1447 samples (Level B) using GPUs 4,5,6,7...
+2026-04-30 08:59:21,958 - ✨ F1 提升 0.1591，获得额外奖励！
+2026-04-30 08:59:21,959 - ✓ 保存缓存: 9 条记录
+2026-04-30 08:59:21,959 -   ✓ 子节点评估完成: 增加伪造交通罚单或事故赔偿的诈骗方式... Q=0.9591
+2026-04-30 08:59:21,959 - Level B: 筛选目标标签 '诈骗-诈骗3万元以内' 和 2 个混淆标签，共 1447/2579 条样本
+2026-04-30 08:59:21,959 - Running parallel inference on 1447 samples (Level B) using GPUs 4,5,6,7...
+2026-04-30 09:43:59,140 - ✨ F1 提升 0.1591，获得额外奖励！
+2026-04-30 09:43:59,141 - ✓ 保存缓存: 10 条记录
+2026-04-30 09:43:59,141 -   ✓ 子节点评估完成: 增加多收费用后拒绝退还的诈骗行为... Q=0.9591
+2026-04-30 09:43:59,142 - Level B: 筛选目标标签 '诈骗-诈骗3万元以内' 和 2 个混淆标签，共 1447/2579 条样本
+2026-04-30 09:43:59,142 - Running parallel inference on 1447 samples (Level B) using GPUs 4,5,6,7...
+2026-04-30 09:50:39,598 - Error collecting results from batch 0: A process in the process pool was terminated abruptly while the future was running or pending.
+2026-04-30 09:50:39,598 - Error collecting results from batch 1: A process in the process pool was terminated abruptly while the future was running or pending.
+2026-04-30 09:50:39,598 - Error collecting results from batch 2: A process in the process pool was terminated abruptly while the future was running or pending.
+2026-04-30 09:50:39,598 - Error collecting results from batch 3: A process in the process pool was terminated abruptly while the future was running or pending.
+2026-04-30 17:00:08,330 - ✓ 已加载混淆矩阵，交通事故-死亡 的全部混淆标签 (1个): ['敏感身份进线-警察来电调取信息-非遗失物品']
+2026-04-30 17:00:08,332 - ✓ 加载缓存: 19 条记录
+2026-04-30 17:00:08,333 - Running parallel inference on 1000 samples (Level A) using GPUs 4,5,6,7...
+2026-04-30 17:01:57,526 - ✓ 设置 baseline[A] 其他标签Acc=1.0000 P=1.0000 R=1.0000 F1=1.0000
+2026-04-30 17:01:57,527 - Level B: 筛选目标标签 '交通事故-死亡' 和 1 个混淆标签，共 75/2579 条样本
+2026-04-30 17:01:57,527 - Running parallel inference on 75 samples (Level B) using GPUs 4,5,6,7...
+2026-04-30 17:02:10,755 - ✓ 设置 baseline[B] 其他标签Acc=1.0000 P=1.0000 R=1.0000 F1=1.0000
+2026-04-30 17:02:10,755 - 
+================================================================================
+2026-04-30 17:02:10,755 - 🚀 MCTS Iteration 1/3 开始
+2026-04-30 17:02:10,755 - ================================================================================
+2026-04-30 17:02:10,755 - 🔍 [Selection] 正在从根节点开始选择最优路径...
+2026-04-30 17:02:10,755 - 📍 [Selection] 选中节点: Root
+2026-04-30 17:02:10,755 - 🧐 [Expansion] 正在生成父节点的初始分析报告...
+2026-04-30 17:02:10,755 - 💾 缓存命中: a0b34a8d1bbc7434... 返回缓存结果 F1=1.0500
+2026-04-30 17:02:10,755 - 
+--- 🧠 父节点 详细判别信息 ---
+2026-04-30 17:02:10,755 - | 目标标签: 交通事故-死亡
+2026-04-30 17:02:10,755 - | 样本总量: 75
+2026-04-30 17:02:10,755 - | 判别性能: P=1.0000, R=1.0000, F1=1.0000
+2026-04-30 17:02:10,755 - | 错误统计: 假阴性(漏检)=0, 假阳性(误检)=0
+2026-04-30 17:02:10,756 - | ✓ 铁律检查: 通过 (未造成其他标签准确率明显下降)
+2026-04-30 17:02:10,756 - -----------------------------
+2026-04-30 17:02:20,668 - 📝 Creating 6 child nodes...
+2026-04-30 17:02:20,669 - 🚀 [FBPS] 批次并行评估 6 个新子节点...
+2026-04-30 17:02:20,670 - Level B: 筛选目标标签 '交通事故-死亡' 和 1 个混淆标签，共 75/2579 条样本
+2026-04-30 17:02:20,670 - Running parallel inference on 75 samples (Level B) using GPUs 4,5,6,7...
+2026-04-30 17:02:34,250 - ✓ 保存缓存: 20 条记录
+2026-04-30 17:02:34,250 -   ✓ 子节点评估完成: 增加关于医疗急救和后续处理流程的描述规则... Q=1.0000
+2026-04-30 17:02:34,251 - Level B: 筛选目标标签 '交通事故-死亡' 和 1 个混淆标签，共 75/2579 条样本
+2026-04-30 17:02:34,251 - Running parallel inference on 75 samples (Level B) using GPUs 4,5,6,7...
+2026-04-30 17:02:47,802 - ✓ 保存缓存: 21 条记录
+2026-04-30 17:02:47,802 -   ✓ 子节点评估完成: 增加关于事故责任认定和法律程序方面的规则... Q=1.0000
+2026-04-30 17:02:47,803 - Level B: 筛选目标标签 '交通事故-死亡' 和 1 个混淆标签，共 75/2579 条样本
+2026-04-30 17:02:47,803 - Running parallel inference on 75 samples (Level B) using GPUs 4,5,6,7...
+2026-04-30 17:03:01,459 - ✓ 保存缓存: 22 条记录
+2026-04-30 17:03:01,460 -   ✓ 子节点评估完成: 增加关于事故后果描述的关键词规则... Q=1.0000
+2026-04-30 17:03:01,460 - Level B: 筛选目标标签 '交通事故-死亡' 和 1 个混淆标签，共 75/2579 条样本
+2026-04-30 17:03:01,460 - Running parallel inference on 75 samples (Level B) using GPUs 4,5,6,7...
+2026-04-30 17:03:15,009 - ✓ 保存缓存: 23 条记录
+2026-04-30 17:03:15,011 -   ✓ 子节点评估完成: 增加关于事故严重程度和影响范围的规则... Q=1.0000
+2026-04-30 17:03:15,012 - Level B: 筛选目标标签 '交通事故-死亡' 和 1 个混淆标签，共 75/2579 条样本
+2026-04-30 17:03:15,012 - Running parallel inference on 75 samples (Level B) using GPUs 4,5,6,7...
+2026-04-30 17:03:28,623 - ✓ 保存缓存: 24 条记录
+2026-04-30 17:03:28,623 -   ✓ 子节点评估完成: 增加关于善后处理和家属联系的相关规则... Q=1.0000
+2026-04-30 17:03:28,624 - Level B: 筛选目标标签 '交通事故-死亡' 和 1 个混淆标签，共 75/2579 条样本
+2026-04-30 17:03:28,624 - Running parallel inference on 75 samples (Level B) using GPUs 4,5,6,7...
+2026-04-30 17:03:42,112 - ✓ 保存缓存: 25 条记录
+2026-04-30 17:03:42,113 -   ✓ 子节点评估完成: 增加关于事故类型和车辆损伤程度的规则... Q=1.0000
+2026-04-30 17:03:42,113 - ✓ [FBPS] 批次评估完成，所有子节点已预设 Q 值。
+2026-04-30 17:03:42,113 - 🌿 [Expansion] 进入新扩展的子节点: 增加关于医疗急救和后续处理流程的描述规则
+2026-04-30 17:03:42,113 - 🎲 [Simulation] 开始评估节点效用...
+2026-04-30 17:03:42,113 - 🧪 [Simulation] 评估目标: 增加关于医疗急救和后续处理流程的描述规则
+2026-04-30 17:03:42,113 - 💡 [FBPS] 节点已预评估，直接返回 Q=1.0000
+2026-04-30 17:03:42,113 - ⬆️ [Backpropagation] 正在回溯更新节点统计信息 (Reward: 1.0000)...
+2026-04-30 17:03:42,113 - 
+✨ Iteration 1 结束. 当前路径奖励: 1.0000
+2026-04-30 17:03:42,113 - 📊 实时统计: 1 成功 / 0 失败 / 1 总计 (失败率: 0.0%)
+2026-04-30 17:03:42,113 - 
+================================================================================
+2026-04-30 17:03:42,113 - 🚀 MCTS Iteration 2/3 开始
+2026-04-30 17:03:42,113 - ================================================================================
+2026-04-30 17:03:42,113 - 🔍 [Selection] 正在从根节点开始选择最优路径...
+2026-04-30 17:03:42,113 - 📍 [Selection] 选中节点: 增加关于事故后果描述的关键词规则
+2026-04-30 17:03:53,223 - 📝 Creating 6 child nodes...
+2026-04-30 17:03:53,224 - 🚀 [FBPS] 批次并行评估 6 个新子节点...
+2026-04-30 17:03:53,225 - Level B: 筛选目标标签 '交通事故-死亡' 和 1 个混淆标签，共 75/2579 条样本
+2026-04-30 17:03:53,225 - Running parallel inference on 75 samples (Level B) using GPUs 4,5,6,7...
+2026-04-30 17:04:06,842 - ✓ 保存缓存: 26 条记录
+2026-04-30 17:04:06,842 -   ✓ 子节点评估完成: 增加涉及司法程序的关键词以增强识别... Q=1.0000
+2026-04-30 17:04:06,843 - Level B: 筛选目标标签 '交通事故-死亡' 和 1 个混淆标签，共 75/2579 条样本
+2026-04-30 17:04:06,843 - Running parallel inference on 75 samples (Level B) using GPUs 4,5,6,7...
+2026-04-30 17:04:20,475 - ✓ 保存缓存: 27 条记录
+2026-04-30 17:04:20,475 -   ✓ 子节点评估完成: 增加保险理赔相关关键词... Q=1.0000
+2026-04-30 17:04:20,476 - Level B: 筛选目标标签 '交通事故-死亡' 和 1 个混淆标签，共 75/2579 条样本
+2026-04-30 17:04:20,476 - Running parallel inference on 75 samples (Level B) using GPUs 4,5,6,7...
+2026-04-30 17:04:34,084 - ✓ 保存缓存: 28 条记录
+2026-04-30 17:04:34,084 -   ✓ 子节点评估完成: 增加具体事故场景描述关键词... Q=1.0000
+2026-04-30 17:04:34,084 - Level B: 筛选目标标签 '交通事故-死亡' 和 1 个混淆标签，共 75/2579 条样本
+2026-04-30 17:04:34,085 - Running parallel inference on 75 samples (Level B) using GPUs 4,5,6,7...
+2026-04-30 17:04:47,669 - ✓ 保存缓存: 29 条记录
+2026-04-30 17:04:47,669 -   ✓ 子节点评估完成: 增加遗体处理相关关键词... Q=1.0000
+2026-04-30 17:04:47,670 - Level B: 筛选目标标签 '交通事故-死亡' 和 1 个混淆标签，共 75/2579 条样本
+2026-04-30 17:04:47,670 - Running parallel inference on 75 samples (Level B) using GPUs 4,5,6,7...
+2026-04-30 17:05:01,460 - ✓ 保存缓存: 30 条记录
+2026-04-30 17:05:01,460 -   ✓ 子节点评估完成: 增加事故责任追究相关关键词... Q=1.0000
+2026-04-30 17:05:01,461 - Level B: 筛选目标标签 '交通事故-死亡' 和 1 个混淆标签，共 75/2579 条样本
+2026-04-30 17:05:01,461 - Running parallel inference on 75 samples (Level B) using GPUs 4,5,6,7...
+2026-04-30 17:05:14,975 - ✓ 保存缓存: 31 条记录
+2026-04-30 17:05:14,976 -   ✓ 子节点评估完成: 增加家属通知和安抚相关关键词... Q=1.0000
+2026-04-30 17:05:14,976 - ✓ [FBPS] 批次评估完成，所有子节点已预设 Q 值。
+2026-04-30 17:05:14,976 - 🌿 [Expansion] 进入新扩展的子节点: 增加涉及司法程序的关键词以增强识别
+2026-04-30 17:05:14,976 - 🎲 [Simulation] 开始评估节点效用...
+2026-04-30 17:05:14,976 - 🧪 [Simulation] 评估目标: 增加涉及司法程序的关键词以增强识别
+2026-04-30 17:05:14,976 - 💡 [FBPS] 节点已预评估，直接返回 Q=1.0000
+2026-04-30 17:05:14,976 - ⬆️ [Backpropagation] 正在回溯更新节点统计信息 (Reward: 1.0000)...
+2026-04-30 17:05:14,976 - 
+✨ Iteration 2 结束. 当前路径奖励: 1.0000
+2026-04-30 17:05:14,976 - 📊 实时统计: 2 成功 / 0 失败 / 2 总计 (失败率: 0.0%)
+2026-04-30 17:05:14,976 - 
+================================================================================
+2026-04-30 17:05:14,976 - 🚀 MCTS Iteration 3/3 开始
+2026-04-30 17:05:14,976 - ================================================================================
+2026-04-30 17:05:14,976 - 🔍 [Selection] 正在从根节点开始选择最优路径...
+2026-04-30 17:05:14,976 - 📍 [Selection] 选中节点: 增加关于事故严重程度和影响范围的规则
+2026-04-30 17:05:26,613 - 📝 Creating 6 child nodes...
+2026-04-30 17:05:26,614 - 🚀 [FBPS] 批次并行评估 6 个新子节点...
+2026-04-30 17:05:26,615 - Level B: 筛选目标标签 '交通事故-死亡' 和 1 个混淆标签，共 75/2579 条样本
+2026-04-30 17:05:26,615 - Running parallel inference on 75 samples (Level B) using GPUs 4,5,6,7...
+2026-04-30 17:05:40,205 - ✓ 保存缓存: 32 条记录
+2026-04-30 17:05:40,205 -   ✓ 子节点评估完成: 增加关于保险理赔和赔偿金额的关键词，识别涉及死亡赔偿的案例... Q=1.0000
+2026-04-30 17:05:40,206 - Level B: 筛选目标标签 '交通事故-死亡' 和 1 个混淆标签，共 75/2579 条样本
+2026-04-30 17:05:40,206 - Running parallel inference on 75 samples (Level B) using GPUs 4,5,6,7...
+2026-04-30 17:05:53,912 - ✓ 保存缓存: 33 条记录
+2026-04-30 17:05:53,912 -   ✓ 子节点评估完成: 增加关于遗体处理相关流程的关键词，强化死亡确认... Q=1.0000
+2026-04-30 17:05:53,913 - Level B: 筛选目标标签 '交通事故-死亡' 和 1 个混淆标签，共 75/2579 条样本
+2026-04-30 17:05:53,913 - Running parallel inference on 75 samples (Level B) using GPUs 4,5,6,7...
+2026-04-30 17:06:07,645 - ✓ 保存缓存: 34 条记录
+2026-04-30 17:06:07,645 -   ✓ 子节点评估完成: 增加关于死亡时间确认和医疗救治失败的关键词... Q=1.0000
+2026-04-30 17:06:07,645 - Level B: 筛选目标标签 '交通事故-死亡' 和 1 个混淆标签，共 75/2579 条样本
+2026-04-30 17:06:07,645 - Running parallel inference on 75 samples (Level B) using GPUs 4,5,6,7...
+2026-04-30 17:06:21,159 - ⚠️ 严重违规: ['confused_敏感身份进线-警察来电调取信息-非遗失物品_drop_0.0143']，但仍允许节点存活。
+2026-04-30 17:06:21,162 - ✓ 保存缓存: 35 条记录
+2026-04-30 17:06:21,162 -   ✓ 子节点评估完成: 增加关于法律程序和刑事责任追究的关键词... Q=0.5000
+2026-04-30 17:06:21,162 - Level B: 筛选目标标签 '交通事故-死亡' 和 1 个混淆标签，共 75/2579 条样本
+2026-04-30 17:06:21,162 - Running parallel inference on 75 samples (Level B) using GPUs 4,5,6,7...
+2026-04-30 17:06:34,721 - ✓ 保存缓存: 36 条记录
+2026-04-30 17:06:34,721 -   ✓ 子节点评估完成: 增加关于家属通知和善后处理的关键词... Q=1.0000
+2026-04-30 17:06:34,721 - Level B: 筛选目标标签 '交通事故-死亡' 和 1 个混淆标签，共 75/2579 条样本
+2026-04-30 17:06:34,721 - Running parallel inference on 75 samples (Level B) using GPUs 4,5,6,7...
+2026-04-30 17:06:48,426 - ✓ 保存缓存: 37 条记录
+2026-04-30 17:06:48,427 -   ✓ 子节点评估完成: 增加关于事故责任认定和死亡原因分析的关键词... Q=1.0000
+2026-04-30 17:06:48,427 - ✓ [FBPS] 批次评估完成，所有子节点已预设 Q 值。
+2026-04-30 17:06:48,427 - 🌿 [Expansion] 进入新扩展的子节点: 增加关于保险理赔和赔偿金额的关键词，识别涉及死亡赔偿的案例
+2026-04-30 17:06:48,427 - 🎲 [Simulation] 开始评估节点效用...
+2026-04-30 17:06:48,427 - 🧪 [Simulation] 评估目标: 增加关于保险理赔和赔偿金额的关键词，识别涉及死亡赔偿的案例
+2026-04-30 17:06:48,427 - 💡 [FBPS] 节点已预评估，直接返回 Q=1.0000
+2026-04-30 17:06:48,427 - ⬆️ [Backpropagation] 正在回溯更新节点统计信息 (Reward: 1.0000)...
+2026-04-30 17:06:48,427 - 
+✨ Iteration 3 结束. 当前路径奖励: 1.0000
+2026-04-30 17:06:48,427 - 📊 实时统计: 3 成功 / 0 失败 / 3 总计 (失败率: 0.0%)
+2026-04-30 17:06:48,427 - 
+################################################################################
+2026-04-30 17:06:48,427 - 🏁 MCTS 搜索完成总结
+2026-04-30 17:06:48,427 - 总迭代次数: 3
+2026-04-30 17:06:48,427 - 成功节点: 3
+2026-04-30 17:06:48,427 - 失败节点: 0
+2026-04-30 17:06:48,427 - 成功率: 100.0%
+2026-04-30 17:06:48,427 - 
+🎯 Tracing best path from root...
+2026-04-30 17:06:48,427 -   Level 1: Q=1.0000, N=2, Action: 增加关于医疗急救和后续处理流程的描述规则
+2026-04-30 17:06:48,427 - 
+✅ Best path found (depth=1):
+2026-04-30 17:06:48,427 -   Root: Q=1.0000
+2026-04-30 17:06:48,427 -   Best child: Q=1.0000, Action: 增加关于医疗急救和后续处理流程的描述规则
+2026-04-30 17:06:49,057 - ✓ 已加载混淆矩阵，诈骗-诈骗3万元以内 的全部混淆标签 (2个): ['暴力犯罪-敲诈1千元以内', '无风险']
+2026-04-30 17:06:49,058 - ✓ 加载缓存: 10 条记录
+2026-04-30 17:06:49,059 - Running parallel inference on 1000 samples (Level A) using GPUs 4,5,6,7...
+2026-04-30 17:08:29,246 - ✓ 设置 baseline[A] 其他标签Acc=0.9725 P=1.0000 R=0.6667 F1=0.8000
+2026-04-30 17:08:29,247 - Level B: 筛选目标标签 '诈骗-诈骗3万元以内' 和 2 个混淆标签，共 1447/2579 条样本
+2026-04-30 17:08:29,247 - Running parallel inference on 1447 samples (Level B) using GPUs 4,5,6,7...
+2026-04-30 17:10:20,321 - ✓ 设置 baseline[B] 其他标签Acc=0.9757 P=1.0000 R=0.8000 F1=0.8889
+2026-04-30 17:10:20,321 - 
+================================================================================
+2026-04-30 17:10:20,321 - 🚀 MCTS Iteration 1/3 开始
+2026-04-30 17:10:20,322 - ================================================================================
+2026-04-30 17:10:20,322 - 🔍 [Selection] 正在从根节点开始选择最优路径...
+2026-04-30 17:10:20,322 - 📍 [Selection] 选中节点: Root
+2026-04-30 17:10:20,322 - 🧐 [Expansion] 正在生成父节点的初始分析报告...
+2026-04-30 17:10:20,322 - 💾 缓存命中: 9e0f0e8db09c920d... 返回缓存结果 F1=0.7500
+2026-04-30 17:10:20,322 - 
+--- 🧠 父节点 详细判别信息 ---
+2026-04-30 17:10:20,322 - | 目标标签: 诈骗-诈骗3万元以内
+2026-04-30 17:10:20,322 - | 样本总量: 1447
+2026-04-30 17:10:20,322 - | 判别性能: P=1.0000, R=0.6000, F1=0.7500
+2026-04-30 17:10:20,322 - | 错误统计: 假阴性(漏检)=2, 假阳性(误检)=0
+2026-04-30 17:10:20,322 - | 典型漏检案例 (FN):
+2026-04-30 17:10:20,322 - |   [1] 【安全等级】：C, 【安全场景】：C级-车内冲突-一般人身安全-盗窃诈骗敲诈勒索(＜3千), 【姓名】：杨先生, 【来电人手机号】：15838572770 , 【乘车人电话】：15838572770 ...
+2026-04-30 17:10:20,322 - |   [2] 用户问题: 司机私下借款后失联, 客服方案: 外呼司机无法接听故升级给专员处理，24小时内回复，电话联系用户 9点回电, 用户是否认可方案: 认可, 乘客上传添加司机微信截图转账截图|18657619...
+2026-04-30 17:10:20,322 - | ✓ 铁律检查: 通过 (未造成其他标签准确率明显下降)
+2026-04-30 17:10:20,322 - -----------------------------
+2026-04-30 17:10:20,332 - 📊 干扰样本已保存至: mcts_error_logs/iter_1_Root_errors.xlsx
+2026-04-30 17:10:20,332 - 📄 干扰样本 TXT 已保存至: mcts_error_logs/iter_1_Root_errors.txt
+2026-04-30 17:10:27,656 - 📝 Creating 6 child nodes...
+2026-04-30 17:10:27,657 - 🚀 [FBPS] 批次并行评估 6 个新子节点...
+2026-04-30 17:10:27,658 - Level B: 筛选目标标签 '诈骗-诈骗3万元以内' 和 2 个混淆标签，共 1447/2579 条样本
+2026-04-30 17:10:27,658 - Running parallel inference on 1447 samples (Level B) using GPUs 4,5,6,7...
+2026-04-30 17:12:20,594 - ⚠️ F1 下降 0.0889，轻微惩罚。
+2026-04-30 17:12:20,595 - ✓ 保存缓存: 11 条记录
+2026-04-30 17:12:20,595 -   ✓ 子节点评估完成: 增加司机私下收取费用且未提供对应服务的识别规则... Q=0.7500
+2026-04-30 17:12:20,596 - Level B: 筛选目标标签 '诈骗-诈骗3万元以内' 和 2 个混淆标签，共 1447/2579 条样本
+2026-04-30 17:12:20,596 - Running parallel inference on 1447 samples (Level B) using GPUs 4,5,6,7...
+2026-04-30 17:14:13,603 - ⚠️ F1 下降 0.0889，轻微惩罚。
+2026-04-30 17:14:13,604 - ✓ 保存缓存: 12 条记录
+2026-04-30 17:14:13,604 -   ✓ 子节点评估完成: 增加司机引导乘客取消订单后收取费用的诈骗模式识别... Q=0.7500
+2026-04-30 17:14:13,605 - Level B: 筛选目标标签 '诈骗-诈骗3万元以内' 和 2 个混淆标签，共 1447/2579 条样本
+2026-04-30 17:14:13,605 - Running parallel inference on 1447 samples (Level B) using GPUs 4,5,6,7...
+2026-04-30 17:16:06,445 - ⚠️ F1 下降 0.0556，轻微惩罚。
+2026-04-30 17:16:06,447 - ✓ 保存缓存: 13 条记录
+2026-04-30 17:16:06,447 -   ✓ 子节点评估完成: 增加司机以借款名义收取费用的诈骗场景识别... Q=0.7833
+2026-04-30 17:16:06,448 - Level B: 筛选目标标签 '诈骗-诈骗3万元以内' 和 2 个混淆标签，共 1447/2579 条样本
+2026-04-30 17:16:06,448 - Running parallel inference on 1447 samples (Level B) using GPUs 4,5,6,7...
+2026-04-30 17:18:00,600 - ⚠️ F1 下降 0.0889，轻微惩罚。
+2026-04-30 17:18:00,602 - ✓ 保存缓存: 14 条记录
+2026-04-30 17:18:00,602 -   ✓ 子节点评估完成: 增加司机虚构服务需求骗取费用的识别规则... Q=0.7500
+2026-04-30 17:18:00,602 - Level B: 筛选目标标签 '诈骗-诈骗3万元以内' 和 2 个混淆标签，共 1447/2579 条样本
+2026-04-30 17:18:00,602 - Running parallel inference on 1447 samples (Level B) using GPUs 4,5,6,7...
+2026-04-30 17:19:53,324 - ✓ 保存缓存: 15 条记录
+2026-04-30 17:19:53,324 -   ✓ 子节点评估完成: 增加司机在非订单场景下收取费用的诈骗识别... Q=0.8889
+2026-04-30 17:19:53,325 - Level B: 筛选目标标签 '诈骗-诈骗3万元以内' 和 2 个混淆标签，共 1447/2579 条样本
+2026-04-30 17:19:53,325 - Running parallel inference on 1447 samples (Level B) using GPUs 4,5,6,7...
+2026-04-30 17:21:46,042 - ⚠️ F1 下降 0.0889，轻微惩罚。
+2026-04-30 17:21:46,044 - ✓ 保存缓存: 16 条记录
+2026-04-30 17:21:46,044 -   ✓ 子节点评估完成: 增加司机利用虚假理由（如车辆故障、路线变更等）收取额外费用的... Q=0.7500
+2026-04-30 17:21:46,044 - ✓ [FBPS] 批次评估完成，所有子节点已预设 Q 值。
+2026-04-30 17:21:46,044 - 🌿 [Expansion] 进入新扩展的子节点: 增加司机在非订单场景下收取费用的诈骗识别
+2026-04-30 17:21:46,044 - 🎲 [Simulation] 开始评估节点效用...
+2026-04-30 17:21:46,044 - 🧪 [Simulation] 评估目标: 增加司机在非订单场景下收取费用的诈骗识别
+2026-04-30 17:21:46,044 - 💡 [FBPS] 节点已预评估，直接返回 Q=0.8889
+2026-04-30 17:21:46,045 - ⬆️ [Backpropagation] 正在回溯更新节点统计信息 (Reward: 0.8889)...
+2026-04-30 17:21:46,045 - 
+✨ Iteration 1 结束. 当前路径奖励: 0.8889
+2026-04-30 17:21:46,045 - 📊 实时统计: 1 成功 / 0 失败 / 1 总计 (失败率: 0.0%)
+2026-04-30 17:21:46,045 - 
+================================================================================
+2026-04-30 17:21:46,045 - 🚀 MCTS Iteration 2/3 开始
+2026-04-30 17:21:46,045 - ================================================================================
+2026-04-30 17:21:46,045 - 🔍 [Selection] 正在从根节点开始选择最优路径...
+2026-04-30 17:21:46,045 - 📍 [Selection] 选中节点: 增加司机在非订单场景下收取费用的诈骗识别
+2026-04-30 17:21:54,734 - 📝 Creating 6 child nodes...
+2026-04-30 17:21:54,734 - 🚀 [FBPS] 批次并行评估 6 个新子节点...
+2026-04-30 17:21:54,735 - Level B: 筛选目标标签 '诈骗-诈骗3万元以内' 和 2 个混淆标签，共 1447/2579 条样本
+2026-04-30 17:21:54,735 - Running parallel inference on 1447 samples (Level B) using GPUs 4,5,6,7...
